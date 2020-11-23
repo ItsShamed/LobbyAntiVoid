@@ -1,0 +1,4 @@
+main: me.Shamed.LobbyAntiVoid.Main
+name: LobbyAntiVoid
+author: ItsShamed
+version: ${build.version}
